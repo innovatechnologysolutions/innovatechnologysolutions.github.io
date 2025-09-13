@@ -99,3 +99,6 @@ body {
   color: #fff;
 }
 
+.projects {
+  --bs-gutter-y: 1.5rem;
+}
